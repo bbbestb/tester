@@ -68,3 +68,6 @@ Strong代理是一家美国公司，拥有650多个服务器分布在20个国家
 ## 总结
 
 综上所述，Nord代理作为全球领先的代理服务提供商，凭借其强大的技术实力、丰富的功能和优质的服务，赢得了广泛的好评。与其他几款代理工具相比，Nord代理在服务器数量、速度、稳定性和价格方面均具有竞争优势。因此，我们强烈推荐Nord代理作为您的首选代理工具。
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=zhongfaxiang.tester&left_color=white&right_color=white)
