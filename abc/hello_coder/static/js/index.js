@@ -14,9 +14,7 @@ Look below for the "numLines" and "speed" variables. See if you can make
 your program draw 100 lines at a time instead of 10. Can you make them
 move a little faster?
 
-If you're comfortable digging in, try and see if you can make the lines
-draw further down the screen. Don't let the math scare you. In
-computational art, math makes things awesome.
+herer
 
 */
 
